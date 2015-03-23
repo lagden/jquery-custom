@@ -1,0 +1,26 @@
+{
+  "name": "jquery-lagden",
+  "description": "My own custom build of jQuery",
+  "version": "2.1.3",
+  "author": {
+    "name": "Thiago Lagden",
+    "email": "lagden@gmail.com"
+  },
+  "keywords": ["javascript", "framework", "jquery", "custom"],
+  "main": "./jquery.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lagden/jquery-custom"
+  },
+  "readme": "README.md",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
+  "dependencies": {},
+  "ignore": [
+    ".*",
+    "*.md",
+    "bin"
+  ]
+}
